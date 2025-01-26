@@ -21,7 +21,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,python,pytorch,php,laravel,docker" />
 
 ## 🔥 Want to learn
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=next,fastapi,ruby,go,terraform,aws,gcp,kubernetes" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=next,fastapi,ruby,rails,go,terraform,aws,gcp,kubernetes" />
 <br>
 
 
