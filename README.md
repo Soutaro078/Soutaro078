@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍🎓 I'm a university student and
+- 🧑‍🎓 I'm a university student
 - 🧑‍💻 I want to be a software engineer.
 - 🖊️ I'm currently learning React and Laravel
  <!-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
@@ -18,11 +18,11 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,python,laravel,docker" />
 <br>
 
 ## 🔥 Want to learn
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,laravel,react,next,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=next,fastapi,go,terraform,aws,gcp" />
 <br>
 
 
