@@ -28,10 +28,33 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
+
+<p align="left">
+  <a href="https://github.com/Soutaro078">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Soutaro078" />
+  </a>
+  <a href="https://github.com/Soutaro078">
+    <img height="20" src="https://img.shields.io/github/followers/Soutaro078?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Keichan_15">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Keichan_15">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/keichan_15">
+    <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
+  </a>
+</p>
+
+
+
+
+<!-- <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
-</div>
+</div> -->
+
 
 
 <!--
