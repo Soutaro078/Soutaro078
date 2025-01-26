@@ -5,7 +5,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there -->
 
 - 🧑‍🎓 I'm a university student
 - 🧑‍💻 I want to be a software engineer.
@@ -36,6 +36,9 @@
   <a href="https://github.com/Soutaro078">
     <img height="20" src="https://img.shields.io/github/followers/Soutaro078?label=follow&logo=github&style=flat" />
   </a>
+</p>
+
+<!-- 
   <a href="http://qiita.com/Soutaro078">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Soutaro078/posts.svg" />
   </a>
@@ -45,8 +48,18 @@
   <a href="https://zenn.dev/Soutaro078">
     <img height="20" src="https://badgen.org/img/zenn/Soutaro078/articles?style=plastic" />
   </a>
-</p>
 
+-->
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
 
 
