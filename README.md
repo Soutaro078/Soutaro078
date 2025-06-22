@@ -11,7 +11,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 🧑‍🎓 I'm a university student
 - 🧑‍💻 I want to be a software engineer.
-- 🖊️ I'm currently learning React and Laravel
+- 🖊️ I'm currently learning React and Rails
  <!-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
 <br> -->
 
